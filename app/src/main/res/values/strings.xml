@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PoltekPosData</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rumahnya">Home</string>
+    <string name="ds_aksi">Aksi</string>
+    <string name="fg_person">Rizaluardi</string>
+    <string name="result_dosen">result dosen</string>
+    <string name="result_nik">result nik</string>
+    <string name="dosen">Dosen</string>
+    <string name="nik">Nik</string>
+    <string name="tambah_data">Tambah data</string>
+    <string name="tambah_data_dosen">Tambah Data Dosen</string>
+    <string name="tambah_dosen">tambah dosen</string>
+    <string name="lihat_dosen">lihat dosen</string>
+    <string name="hapus_data_dosen">hapus data dosen</string>
+    <string name="kbhui">Kembali ke halaman utama</string>
+    <string name="list_data_dosen">list data dosen</string>
+    <string name="data_masih_kosong">data masih kosong</string>
+    <string name="tbkontaks">TABEL kontak</string>
+    <string name="tabel_ruangan">TABEL RUANGAN</string>
+    <string name="tabel_alamat">TABEL ALAMAT</string>
+    <string name="tabel_instansi">TABEL INSTANSI</string>
+    <string name="csds">CRUD Setiap Tabel</string>
+    <string name="wsrcs">Web Service Rest Server</string>
+    <string name="mdwdf">Menuju Upload dan Download Files</string>
+    <string name="mcwrs">Menuju CRUD WEB Rest Server</string>
+    <string name="mcsd">Menuju CRUD SQLite Dosen</string>
+    <string name="npem">1184102</string>
+    <string name="rap">Rizaluardi Achmad Pratama</string>
+    <string name="upload">Upload</string>
+    <string name="download_file">Download File</string>
+    <string name="download_now">Download Now</string>
+</resources>

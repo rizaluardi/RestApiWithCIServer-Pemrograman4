@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.rizaluardi.ppsdt1184102">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PoltekPosData">
+        <activity android:name=".HomeWebActivity"></activity>
+        <activity android:name=".activityserver.MainActivityRuangan" />
+        <activity android:name=".activityserver.MainActivityInstansi" />
+        <activity android:name=".activityserver.MainActivityAlamat" />
+        <activity android:name=".activityserver.MainActivityWeb" />
+        <activity android:name=".activityserver.InsertActivityRuangan" />
+        <activity android:name=".activityserver.InsertActivityInstansi" />
+        <activity android:name=".activityserver.InsertActivityAlamat" />
+        <activity android:name=".activityserver.InsertActivity" />
+        <activity android:name=".activityserver.EditActivityRuangan" />
+        <activity android:name=".activityserver.EditActivityInstansi" />
+        <activity android:name=".activityserver.EditActivityAlamat" />
+        <activity android:name=".activityserver.EditActivity" />
+        <activity android:name=".activity.TambahDosenActivity" />
+        <activity android:name=".activity.MainScreenActivity" />
+        <activity android:name=".activity.LihatDosenActivity" />
+        <activity android:name=".UploadDownloadFile" />
+        <activity android:name=".RegisterAct" />
+        <activity android:name=".LoginAct" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".SplashScreenz">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+</manifest>
